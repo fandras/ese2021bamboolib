@@ -16,6 +16,6 @@ RUN pip install 'bamboolib>=1.26.0'
 RUN python -m bamboolib install_nbextensions
 RUN python -m bamboolib install_labextensions
 
-RUN pip install keplergl 
-RUN jupyter labextension install @jupyter-widgets/jupyterlab-manager@1.1
-RUN jupyter labextension install keplergl-jupyter
+#RUN pip install keplergl 
+#RUN jupyter labextension install @jupyter-widgets/jupyterlab-manager@1.1
+#RUN jupyter labextension install keplergl-jupyter
