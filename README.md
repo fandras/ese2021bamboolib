@@ -6,5 +6,5 @@ Generated from: https://github.com/8080labs/bamboolib_binder_template
 
 You can run this repo in a Jupyter Notebook on Binder by clicking on the following button:
 
-[![Binder](https://mybinder.org/v2/gh/fandras/ese2021bamboolib.git/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fandras/ese2021bamboolib/HEAD)
 
